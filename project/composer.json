@@ -1,0 +1,26 @@
+{
+    "name": "hdeleon/excel",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hdeleon\\Excel\\": "src/",
+            "app\\interfaces\\":"src/interfaces/",
+            "app\\data\\": "src/data/",
+            "app\\excel\\": "src/excel/",
+            "app\\business\\": "src/business/"
+        },
+        "files":[
+             "src/config/database.php"
+        ]
+       
+    },
+    "authors": [
+        {
+            "name": "powerhdeleon"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpoffice/phpspreadsheet": "dev-master"
+    }
+}

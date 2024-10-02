@@ -1,0 +1,17 @@
+error: un error ocurrio - 2024-09-05 19:24:25
+log: el usuario ha hecho lo siguiente - 2024-09-05 19:24:25
+error: un error ocurrio - 2024-09-05 19:24:26
+log: el usuario ha hecho lo siguiente - 2024-09-05 19:24:26
+error: un error ocurrio - 2024-09-05 19:24:27
+log: el usuario ha hecho lo siguiente - 2024-09-05 19:24:27
+error: un error ocurrio - 2024-09-05 19:24:28
+log: el usuario ha hecho lo siguiente - 2024-09-05 19:24:28
+error: un error ocurrio - 2024-09-05 19:25:23
+log: el usuario ha hecho lo siguiente - 2024-09-05 19:25:23
+warning: Un alerta! - 2024-09-05 19:25:23
+error: un error ocurrio - 2024-09-05 19:25:24
+log: el usuario ha hecho lo siguiente - 2024-09-05 19:25:24
+warning: Un alerta! - 2024-09-05 19:25:24
+error: un error ocurrio - 2024-09-05 19:25:24
+log: el usuario ha hecho lo siguiente - 2024-09-05 19:25:24
+warning: Un alerta! - 2024-09-05 19:25:24

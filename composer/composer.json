@@ -1,0 +1,20 @@
+{
+    "name": "hdeleon/test",
+    "description": "Pruebas para composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hdeleon\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "skip"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "nesbot/carbon": "3.x-dev",
+        "phpoffice/phpspreadsheet": "dev-master"
+    }
+}
